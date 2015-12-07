@@ -1,6 +1,6 @@
 alpine-consul
 =============
-Consul Server container with a small disk footprint (25 MB). This image is
+Consul Server container with a small disk footprint (9 MB). This image is
 generally used for a development environment, run as a single development
 server container.
 
