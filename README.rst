@@ -16,11 +16,11 @@ Example Usage
 
   docker run --name consul -d -p 8500:8500 gavinmroy/alpine-consul
 
-  .. |Stars| image:: https://img.shields.io/docker/stars/gavinmroy/alpine-pgbouncer.svg?style=flat&1
-     :target: https://hub.docker.com/r/gavinmroy/alpine-pgbouncer/
+.. |Stars| image:: https://img.shields.io/docker/stars/gavinmroy/alpine-consul.svg?style=flat&1
+   :target: https://hub.docker.com/r/gavinmroy/alpine-consul/
 
-  .. |Pulls| image:: https://img.shields.io/docker/pulls/gavinmroy/alpine-pgbouncer.svg?style=flat&1
-     :target: https://hub.docker.com/r/gavinmroy/alpine-pgbouncer/
+.. |Pulls| image:: https://img.shields.io/docker/pulls/gavinmroy/alpine-consul.svg?style=flat&1
+   :target: https://hub.docker.com/r/gavinmroy/alpine-consul/
 
-  .. |Layers| image:: https://img.shields.io/imagelayers/image-size/gavinmroy/alpine-pgbouncer/latest.svg?style=flat&1
-     :target: https://hub.docker.com/r/gavinmroy/alpine-pgbouncer/
+.. |Layers| image:: https://img.shields.io/imagelayers/image-size/gavinmroy/alpine-consul/latest.svg?style=flat&1
+  :target: https://hub.docker.com/r/gavinmroy/alpine-consul/
